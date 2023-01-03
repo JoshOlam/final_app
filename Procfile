@@ -1,0 +1,1 @@
+web: gunicorn fulltrain_app.py:app
